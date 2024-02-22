@@ -48,6 +48,10 @@ ou
 
 yarn test -- Title.spec.js
 ```
+## Documentações importantes
 
-
+- Vitest: https://vitest.dev/guide/
+- Jest: https://jestjs.io/docs/expect
+- Vue Test Utils - https://v1.test-utils.vuejs.org/
+- MSW: https://mswjs.io/docs/getting-started
 
